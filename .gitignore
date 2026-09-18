@@ -1,0 +1,4 @@
+# Abaikan file biner hasil kompilasi C
+*
+!*.c
+!.gitignore
